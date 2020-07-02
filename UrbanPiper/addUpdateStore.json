@@ -1,0 +1,47 @@
+{
+   "stores":[
+      {
+         "city":"New Delhi",
+         "name":"South Delhi",
+         "min_pickup_time":900,
+         "min_delivery_time":1800,
+         "contact_phone":"8887778887",
+         "notification_phones":[
+            "+91969999999",
+            "+91959999999"
+         ],
+         "ref_id":"STORE_POS_ID_23",
+         "min_order_value":100,
+         "hide_from_ui":false,
+         "address":"New Road Delhi",
+         "notification_emails":[
+            "goodfood@yopmail.com",
+            "tastyfood@yopmail.com"
+         ],
+         "zip_codes":[
+            "140003"
+         ],
+         "geo_longitude":77.6546828,
+         "active":true,
+         "geo_latitude":11.9354922,
+         "ordering_enabled":true,
+         "translations":[
+
+         ],
+         "excluded_platforms":[
+
+         ],
+         "timings":[
+            {
+               "day":"monday",
+               "slots":[
+                  {
+                     "start_time":"10:00:00",
+                     "end_time":"22:30:00"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}

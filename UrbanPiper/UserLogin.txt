@@ -1,0 +1,7 @@
+=============================================
+link: https://staging.urbanpiper.com/portal/
+link: https://test-satellite.urbanpiper.com/
+
+Username: admin+exclusife
+Password: admin+exclusife123up
+============================================
